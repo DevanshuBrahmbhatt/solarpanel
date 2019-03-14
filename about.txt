@@ -1,0 +1,16 @@
+<!---what we have done---->
+		<div class="statics">
+		<section id="things we have done so far">
+           <div class="container">
+					<div class="row counters">
+						<div class="col s12 center">
+							<h4 id="views">Things We Have Done So Far</h4>
+						</div>
+						<div class="col s12 m4 center count"><span id="videoCount"></span> MW<br>3D Video Design Project</div>
+						<div class="col s12 m4 center count"><span id="designProject"></span> MW<br>Detailed Engineering Design</div>
+						<div class="col s12 m4 center count"><span id="clientCount"></span><br>Served B2B Clients</div>
+					</div>
+		</div>
+		</section>
+		</div><br><br>
+		<!------------------------------------------------------------->
